@@ -1,2 +1,2 @@
 # MABSCathode
-My thesis codes which is DETERMINATION OF ELECTRONIC STRUCTURE OF CATHODE IN METAL-AIR BATTERIES BY MACHINE LEARNING
+My thesis codes and datas which is Machine Learning-Driven Identification of Efficient Metal Oxides for Oxygen Reduction Reactions in Metal-Air Battery Cathodes
